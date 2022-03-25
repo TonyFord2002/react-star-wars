@@ -7,7 +7,9 @@ h1{
     text-align: center;
     font-family: fantasy;
     font-style: italic;
+    font-size: 36px;
     -webkit-text-stroke: .3px black;
+    text-shadow: -2px 2px 2px gray;
 }   
 .App{
     display: grid;
@@ -20,10 +22,11 @@ h1{
     height: 100px;
     background-color: rgba(230, 230, 230, 0.89);
     text-align: center;
-    font-size: 26px;
+    font-size: 25px;
     font-family: fantasy;
     font-style: italic;
     -webkit-text-stroke: 1.4px black;
+    text-shadow: -2px 2px 2px black;
     color: rgb(255, 232, 31);
     margin: 20px;
     padding: 10px;
